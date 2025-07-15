@@ -1,9 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:5,
-https://pflix48.github.io/expire/segment0.ts
-#EXTINF:5,
-https://pflix48.github.io/expire/segment1.ts
-#EXT-X-ENDLIST
